@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+enable_dark_mode: true;
 # Name of your site (displayed in the header)
 name: The Goober
 
