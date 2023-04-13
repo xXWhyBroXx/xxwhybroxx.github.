@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+15 and im a Goober and jsut do random stuff with code
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[grapejellyjamandpenutbuter@gmail.com](grapejellyjamandpenutbuter@gmail.com)
