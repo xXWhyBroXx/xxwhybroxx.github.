@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $darkGray;
-  font: 18px/1.4 $comicsansmc;
+  font: 18px/1.4 $comic;
   color: $white
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $comicsansmc;
+  font-family: $comic;
   color: $gray;
   font-weight: bold;
 
