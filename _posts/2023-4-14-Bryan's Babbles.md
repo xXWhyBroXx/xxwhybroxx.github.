@@ -47,5 +47,6 @@ Where's the closest ranch? ... Down the Rodeo!
 10 : A Jokester's Jab :
 
 What do you call a Comedion's Finisher? ...The Punchline!
+
 ---
 
