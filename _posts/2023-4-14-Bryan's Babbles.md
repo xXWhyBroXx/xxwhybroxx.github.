@@ -34,7 +34,7 @@ PS: Bryan is Cuban
 
 6 : Sucking in the Stone Age :
 
-What do you call a dinosaur who likes so suck dick? ...A Whoreasarus!
+What do you call a dinosaur who likes to suck dick? ...A Whoreasarus!
 
 7 : A Washed up Jokester :
 
