@@ -12,15 +12,15 @@ A new regular post here will be Bryan's Babbles it'll be showcasing diffrent thi
 
 1 : The Opening :
 
-How can lockpick get pass the door? ... it has to be SneaKEY!
+How can lockpick get pass the door? ... It has to be SneaKEY!
 
 2 : Poseidon's day out :
 
-What do you call it when Poseidon walks into a zoo? ...a Aquarium!
+What do you call it when Poseidon walks into a zoo? ...A Aquarium!
 
 4 : A Holy Touch :
 
-what are similarities between Chrisanity And Buddhism? ...Their leaders wanting kids!
+What are similarities between Chrisanity And Buddhism? ...Their leaders wanting kids!
 
 5 : The Cuban Chuckle Sandwich :
 
@@ -30,7 +30,7 @@ PS: Bryan is Cuban
 
 6 : Sucking in the Stone Age :
 
-what do you call a dinosaur who likes so suck dick? ...A Whoreasarus!
+What do you call a dinosaur who likes so suck dick? ...A Whoreasarus!
 
 7 : A Washed up Jokester :
 
