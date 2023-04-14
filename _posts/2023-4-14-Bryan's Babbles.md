@@ -7,11 +7,12 @@ A new regular post here will be Bryan's Babbles it'll be showcasing diffrent thi
 
 ---
 10 Goofy Giggles by Bryan
+
 ---
 
 1 : The Opening :
 
-How can lockpick get pass the door? .., it has to be SneaKEY!
+How can lockpick get pass the door? ... it has to be SneaKEY!
 
 2 : Poseidon's day out :
 
@@ -46,4 +47,5 @@ Where's the closest ranch? ... Down the Rodeo!
 10 : A Jokester's Jab :
 
 What do you call a Comedion's Finisher? ...The Punchline!
+---
 
