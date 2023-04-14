@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-15 and im a Goober and jsut do random stuff with code
+15 and im a Goober and just do random stuff with code
 
 ### Contact me
 
