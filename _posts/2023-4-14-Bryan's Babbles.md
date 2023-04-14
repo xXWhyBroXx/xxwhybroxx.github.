@@ -18,6 +18,10 @@ How can lockpick get pass the door? ... It has to be SneaKEY!
 
 What do you call it when Poseidon walks into a zoo? ...A Aquarium!
 
+3 : Bryan's Formula :
+
+What is the chemist's favorite instrument? ... The BASE!
+
 4 : A Holy Touch :
 
 What are similarities between Chrisanity And Buddhism? ...Their leaders wanting kids!
