@@ -16,4 +16,5 @@ Cheese balls became a popular party food in the 1950s and 1960s, often served at
 
 Today, cheese balls continue to be a popular party food, with many variations on the original recipe. They can be made with a variety of cheeses, including cheddar, blue cheese, and goat cheese, and can be coated with nuts, herbs, or other flavorings.
 
-this was written by AI L + Ratio  
+this was written by AI :p
+
