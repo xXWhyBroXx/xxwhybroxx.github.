@@ -7,4 +7,10 @@ It's Tyler Tuesday you Goobers and this Tuesday we have 5 wacky memes this will 
 
 ---
 
-![Oops no meme]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
