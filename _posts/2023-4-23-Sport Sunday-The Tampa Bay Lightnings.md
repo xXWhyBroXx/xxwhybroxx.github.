@@ -1,3 +1,12 @@
+---
+layout: post
+title: The Tampa Bay Lightings
+---
+
+Who are the Tampa Bay Lightings and what makes them a great team?
+
+---
+
 The Lightning is a professional ice hockey team based in Tampa, Florida. Established in 1992, the team was named after the state's status as the "Lightning Capital of the World", due to the high frequency of lightning strikes in the region. Since its inception, the Lightning have become one of the most successful franchises in the National Hockey League (NHL).
 
 The Lightning play at Amalie Arena, formerly known as the Tampa Bay Times Forum, which was built in 1996. The arena has a seating capacity of over 19,000 spectators and is located in the downtown area of Tampa. The team's colors are blue, black, and silver.
