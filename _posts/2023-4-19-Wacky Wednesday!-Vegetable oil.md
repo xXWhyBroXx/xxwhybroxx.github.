@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wacky Wednesday! Vegetable Oil Cars
+title: Wacky Wednesday! Vegetable Oil Cars?
 ---
 
 How about creating a car that runs on vegetable oil, but not just any vegetable oil - it has to be oil that has been used for frying fast food. You could partner up with fast food restaurants and set up collection stations where people can drop off their used oil for free or for a small fee. The collected oil could then be purified and used as fuel for the car. Not only would this be environmentally friendly, but it could also create a new type of economy around used fast food oil.
