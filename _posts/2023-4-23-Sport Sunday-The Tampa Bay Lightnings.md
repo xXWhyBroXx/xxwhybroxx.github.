@@ -20,3 +20,5 @@ In addition to their on-ice success, the Lightning have become well-known for th
 Overall, the Lightning have become a beloved and successful sports franchise in the Tampa Bay area. With a talented roster and committed leadership, the team is poised to continue competing at a high level for years to come.
 
 Written by Nova
+
+---
