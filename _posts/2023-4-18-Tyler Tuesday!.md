@@ -3,7 +3,7 @@ layout: post
 title: Tyler Tuesday!
 ---
 
-It's Tyler Tuesday you Goobers and this Tuesday we have 5 wacky memes this will happen 
+It's Tyler Tuesday you Goobers and this Tuesday we have 5 wacky memes this will happen weekly
 
 ---
 
