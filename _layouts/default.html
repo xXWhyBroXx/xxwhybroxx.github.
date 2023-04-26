@@ -2,6 +2,11 @@
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+   
+    <!-- Custom JavaScript files set in YAML front matter -->
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
 
   
     <!--[if lt IE 9]>
