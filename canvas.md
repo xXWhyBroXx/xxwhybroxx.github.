@@ -3,7 +3,7 @@ layout: page
 title: Canvas
 permalink: /canvas/
 ---
--Scripts/Canvas.js
+-![an image alt text]({{ site.baseurl }}/Scripts/Canvas.js"balls")
 ---
 
 
