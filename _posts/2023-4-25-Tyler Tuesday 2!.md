@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tyler Tuesday!
+title: Tyler Tuesday 2!
 ---
 
 It's Tyler Tuesday you Goobers and this Tuesday we have 5 wacky memes this will happen weekly
