@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Onion is it Reputable
----
-
+--- 
 No but why is the onion not reputable?
 ---
 because its a joke you can see this in posts such as
